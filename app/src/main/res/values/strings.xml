@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FoosballApp</string>
+    <string name="game_results">Game results</string>
+    <string name="rankings">Rankings</string>
+</resources>
